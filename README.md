@@ -8,8 +8,11 @@ My internship and studies have provided me with broad proficiency in the use of 
 
 Successes achieved:
 -Developed a responsive online art gallery with basic user functionality and additional features.
+
 -Developed a machine learning model to super-resolve images.
+
 -Problem setter at Codechef
+
 -Participated in ACPM ICPC, Google Hashcode, Smart India Hackathon, and Hult Prize.
 
 When I’m not working on projects, I spend time with my family or read mystery novels.
