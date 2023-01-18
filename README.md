@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 This is Shloka Mahesheka.
+
 Machines have always fascinated me from playing games to searching on the internet.
 Today much has stayed the same. I still search on the Internet for writing code. I am a software developer with Bachelor's degree in Technology (B.TECH) in Computer Science and Engineering(CSE).
 
